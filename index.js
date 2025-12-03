@@ -19,6 +19,69 @@ const propertyForSaleArr = [
         roomsM2: [20, 15, 10],
         comment: "Steps away from the ocean.",
         image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://photos.zillowstatic.com/fp/15b8549d5e0f5db751005a4c5ec24d11-cc_ft_1152.webp"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://photos.zillowstatic.com/fp/15b8549d5e0f5db751005a4c5ec24d11-cc_ft_1152.webp"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://photos.zillowstatic.com/fp/a9756a21384335c70a5b5d41d33f5d77-sc_1920_1280.webp"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
+    },
+    {
+        propertyLocation: "1 My Street, My Town",
+        priceGBP: 0,
+        roomsM2: [0],
+        comment: "This is a placeholder property.",
+        image: "https://via.placeholder.com/300x200"
     }
 ]
 
